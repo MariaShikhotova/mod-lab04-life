@@ -16,9 +16,6 @@
     <PackageReference Include="MSTest.TestFramework" Version="2.2.10" />
     <PackageReference Include="coverlet.collector" Version="3.1.2" />
   </ItemGroup>
-  <ItemGroup>
-    <KnownFrameworkReference Update="Microsoft.WindowsDesktop.App.WPF" IsWindowsOnly="false" />
-  </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Life\Life.csproj" />
