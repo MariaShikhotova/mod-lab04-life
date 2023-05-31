@@ -44,7 +44,7 @@ namespace test
             
             Program.Reset();
             Program.Render();
-            stream = File.Open(1.png", FileMode.Open);
+            stream = File.Open("1.png", FileMode.Open);
             bool flag = false;
             if (stream != null)
                 flag= true;
