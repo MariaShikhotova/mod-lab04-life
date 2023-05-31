@@ -3,8 +3,8 @@ using System;
 using cli_life;
 using System.Windows.Media;
 using System.IO;
-namespace NET;
-namespace Tests
+//namespace NET;
+namespace test
 {
     [TestClass]
     public class UnitTest1
